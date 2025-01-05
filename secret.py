@@ -1,0 +1,4 @@
+CLIENT_ID = "ce829b7fabbe494ca459f9d1f6dfa2a4"
+CLIENT_SECRET = "eca3840349f24920a963ad35268419d7"
+
+hostname = "http://172.233.52.117"
